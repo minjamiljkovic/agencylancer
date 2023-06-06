@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="28.302" viewBox="0 0 220 28.302">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.072" y1="0.5" x2="8.887" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5220ef"/>
+      <stop offset="1" stop-color="#00b0ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.714" y1="0.5" x2="5.507" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-3" x1="-2.371" y1="0.5" x2="5.438" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-4" x1="-3.068" y1="0.5" x2="3.682" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-5" x1="-4.272" y1="0.5" x2="2.66" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-6" x1="-9.73" y1="0.5" x2="2.65" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-7" x1="-14.124" y1="0.5" x2="1.563" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-8" x1="-11.205" y1="0.5" x2="0.936" y2="0.5" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Group_50" data-name="Group 50" transform="translate(0)">
+    <g id="Group_6" data-name="Group 6">
+      <path id="Path_50" data-name="Path 50" d="M166.233,830.479l-8.061,21.62h3.84l1.772-4.823h9.042L174.6,852.1h3.836l-7.968-21.62Zm5.339,13.365h-6.535l3.268-8.945Z" transform="translate(-158.172 -830.479)" fill="#25203a"/>
+      <path id="Path_51" data-name="Path 51" d="M234.621,847.453a6.338,6.338,0,0,0-4.618-1.83c-4.648,0-8.021,3.593-8.021,8.544,0,5.065,3.226,8.6,7.846,8.6a6.472,6.472,0,0,0,4.705-1.8V863.9c0,1.307-.426,1.77-1.625,1.77H225.7v3.4h7.178c3.373,0,5.231-1.754,5.231-4.941V846h-3.49Zm0,6.713c0,3.127-1.821,5.228-4.531,5.228-2.634,0-4.473-2.15-4.473-5.228,0-3.044,1.863-5.17,4.531-5.17C233.084,849,234.621,851.6,234.621,854.167Z" transform="translate(-201.538 -840.771)" fill="#25203a"/>
+      <path id="Path_52" data-name="Path 52" d="M288.068,845.624c-4.539,0-7.962,3.71-7.962,8.631,0,5.093,3.258,8.514,8.108,8.514a7.413,7.413,0,0,0,7.441-5.28l.23-.83-3.705-.023a3.853,3.853,0,0,1-3.938,2.819,4.085,4.085,0,0,1-4.468-3.978h12.111v-1.483C295.885,848.909,292.816,845.624,288.068,845.624Zm0,3.344a3.9,3.9,0,0,1,4.115,3.367h-8.3A4.2,4.2,0,0,1,288.068,848.968Z" transform="translate(-241.038 -840.772)" fill="#25203a"/>
+      <path id="Path_53" data-name="Path 53" d="M345.778,845.623a5.91,5.91,0,0,0-4.153,1.529V846h-3.577v16.39h3.577v-9.648a3.565,3.565,0,0,1,3.6-3.688,3.189,3.189,0,0,1,3.253,3.339v10h3.577V852.249C352.055,848.348,349.474,845.623,345.778,845.623Z" transform="translate(-280.417 -840.771)" fill="#25203a"/>
+      <path id="Path_54" data-name="Path 54" d="M402.083,856.146a3.947,3.947,0,0,1-4.047,3.25c-2.839,0-4.821-2.138-4.821-5.2,0-3.013,2-5.2,4.763-5.2a3.947,3.947,0,0,1,4.047,3.249l.119.663,3.553-.82-.152-.629a7.647,7.647,0,0,0-7.625-5.836,8.575,8.575,0,0,0,.029,17.145,7.666,7.666,0,0,0,7.654-5.836l.152-.63-3.553-.82Z" transform="translate(-315.418 -840.771)" fill="#25203a"/>
+      <path id="Path_55" data-name="Path 55" d="M449.18,858.662l-4.06-11.86h-3.933l6.02,16.39h.127l-.742,1.944a1.77,1.77,0,0,1-1.931,1.365h-2.326v3.373h2.239c2.69,0,4.339-1.035,5.188-3.257l7.689-19.816h-3.971Z" transform="translate(-350.51 -841.572)" fill="#25203a"/>
+      <path id="Path_56" data-name="Path 56" d="M502.451,830.479h-3.635V852.1h12.409v-3.4h-8.774Z" transform="translate(-389.676 -830.479)" fill="url(#linear-gradient)"/>
+      <path id="Path_57" data-name="Path 57" d="M556.93,859.064a.4.4,0,0,1,0-.045V846h-3.606v1.458a6.5,6.5,0,0,0-4.676-1.835c-4.62,0-7.846,3.537-7.846,8.6,0,4.951,3.373,8.544,8.02,8.544a6.288,6.288,0,0,0,4.842-2.049,2.755,2.755,0,0,0,2.6,1.671h2.123v-3.315h-1.338A.455.455,0,0,1,556.93,859.064Zm-3.521-4.81c0,3.552-2.318,5.17-4.473,5.17-2.651,0-4.5-2.126-4.5-5.17,0-3.1,1.839-5.257,4.473-5.257C551.6,849,553.409,851.11,553.409,854.254Z" transform="translate(-418.207 -840.771)" fill="url(#linear-gradient-2)"/>
+      <path id="Path_58" data-name="Path 58" d="M613,845.623a5.91,5.91,0,0,0-4.153,1.529V846H605.27v16.39h3.577v-9.648a3.565,3.565,0,0,1,3.6-3.688,3.189,3.189,0,0,1,3.253,3.339v10h3.577V852.249C619.277,848.348,616.7,845.623,613,845.623Z" transform="translate(-462.022 -840.771)" fill="url(#linear-gradient-3)"/>
+      <path id="Path_59" data-name="Path 59" d="M669.305,856.146a3.947,3.947,0,0,1-4.047,3.25c-2.839,0-4.821-2.138-4.821-5.2,0-3.013,2-5.2,4.763-5.2a3.947,3.947,0,0,1,4.047,3.249l.119.663,3.553-.82-.152-.629a7.647,7.647,0,0,0-7.625-5.836,8.575,8.575,0,0,0,.029,17.145,7.666,7.666,0,0,0,7.654-5.836l.151-.63-3.553-.82Z" transform="translate(-497.024 -840.771)" fill="url(#linear-gradient-4)"/>
+      <path id="Path_60" data-name="Path 60" d="M719.956,845.623c-4.539,0-7.962,3.71-7.962,8.631,0,5.093,3.258,8.515,8.108,8.515a7.413,7.413,0,0,0,7.442-5.281l.23-.83-3.7-.023a3.853,3.853,0,0,1-3.938,2.819,4.085,4.085,0,0,1-4.468-3.977h12.111v-1.483C727.774,848.909,724.705,845.623,719.956,845.623Zm0,3.344a3.9,3.9,0,0,1,4.114,3.367h-8.3A4.2,4.2,0,0,1,719.956,848.968Z" transform="translate(-534.552 -840.771)" fill="url(#linear-gradient-5)"/>
+      <path id="Path_61" data-name="Path 61" d="M777.144,845.623a5.046,5.046,0,0,0-3.659,1.606V846h-3.548v16.39h3.577v-8.718c0-1.67.422-4.473,3.253-4.473h2.006v-3.577Z" transform="translate(-573.93 -840.771)" fill="url(#linear-gradient-6)"/>
+      <path id="Path_62" data-name="Path 62" d="M810.728,837.452,809,835.724l4.479-5.245,2.494,2.494Z" transform="translate(-600.478 -830.479)" fill="url(#linear-gradient-7)"/>
+      <path id="Path_63" data-name="Path 63" d="M816.7,860.917v-3.2l9.01-.71v4.622Z" transform="translate(-605.713 -848.506)" fill="url(#linear-gradient-8)"/>
+      <path id="Path_64" data-name="Path 64" d="M809,877.921l1.728-1.728,5.245,4.479-2.494,2.494Z" transform="translate(-600.478 -861.547)" fill="url(#linear-gradient-7)"/>
+    </g>
+  </g>
+<div xmlns="" id="divScriptsUsed" style="display: none"/><script xmlns="" id="globalVarsDetection" src="chrome-extension://cmkdbmfndkfgebldhnkbfhlneefdaaip/js/wrs_env.js"/></svg>
